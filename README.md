@@ -1,6 +1,8 @@
 # Vue3-bigEvent-admin
 
-This template should help get you started developing with Vue 3 in Vite.
+本项目的技术栈 本项目技术栈基于 [ES6](http://es6.ruanyifeng.com/)、[vue3](https://cn.vuejs.org/index.html)、[pinia](https://pinia.web3doc.top/)、[vue-router](https://router.vuejs.org/) 、vite 、axios 和 [element-plus](https://element-plus.org/)
+
+接口文档:   https://apifox.com/apidoc/shared-26c67aee-0233-4d23-aab7-08448fdf95ff/api-93850835
 
 ## Recommended IDE Setup
 
